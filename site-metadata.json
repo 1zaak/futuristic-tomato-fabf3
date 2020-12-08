@@ -26,11 +26,6 @@
             }
         }
     },
-    "main_menu": [
-        {
-            "title": "FAQ",
-            "url": "/faq"
-        }
-    ],
+    "main_menu": [],
     "title": "Planty"
 }
