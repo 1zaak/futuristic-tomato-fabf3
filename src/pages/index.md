@@ -8,16 +8,6 @@ sections:
     content: |
       # Coming soon
     actions: []
-  - type: featured_products_section
-    section_id: best_sellers_section
-    title: Best sellers
-    icon: true
-    light_title: true
-    featured_products:
-      - src/pages/products/plant1.md
-      - src/pages/products/plant3.md
-      - src/pages/products/plant5.md
-      - src/pages/products/plant7.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
