@@ -45,7 +45,7 @@ export default class Header extends React.Component {
                             <div className="hamburger__options">
                                 
                                 <div className="">
-                                    <span className="snipcart-items-count" /> products | <span className="snipcart-total-price" />                        </div>
+                                    <span className="snipcart-items-count" /> Coming soon <span className="snipcart-total-price" />                        </div>
                                 </div>
                             
                             <ul className="hamburger__nav">
