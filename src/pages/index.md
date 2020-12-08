@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MFH
 white_header: true
 sections:
   - type: hero_section
