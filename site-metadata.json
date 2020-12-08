@@ -24,6 +24,13 @@
             }
         }
     },
-    "main_menu": [],
+    "main_menu": [
+        {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "arrow": false,
+            "type": "action"
+        }
+    ],
     "title": "My Fresh Hub"
 }
