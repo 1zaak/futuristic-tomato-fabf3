@@ -1,5 +1,5 @@
 ---
-title: MFH
+title: My Fresh Hub
 white_header: true
 sections:
   - type: hero_section
