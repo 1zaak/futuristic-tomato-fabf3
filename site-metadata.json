@@ -28,10 +28,6 @@
     },
     "main_menu": [
         {
-            "title": "About",
-            "url": "/about"
-        },
-        {
             "title": "FAQ",
             "url": "/faq"
         }
